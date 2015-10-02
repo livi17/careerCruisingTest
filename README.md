@@ -1,5 +1,7 @@
 ##CAREER CRUISING TEST
 
+VIEW SITE HERE: http://www.aceroinc.ca/careerCruisingTest
+
 ####INSTRUCTIONS:
 *   Download the PSD from this link:   https://drive.google.com/file/d/0B9FeUpsU0hNQNkNSaVBHMUEzaUk/view?usp=sharing 
 *   Produce the PSD into static HTML and CSS using SASS and 
